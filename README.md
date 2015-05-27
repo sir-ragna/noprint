@@ -8,5 +8,5 @@ Please not that you can easily use the PDFbox commandline arguments to achieve t
 
 This of course doesn't affect PDF readers that don't adhere to DRM rights.
 
-Another cool way to prevent people from copying certain things is: http://wildsparx.com/eurionize/
+Another cool way to prevent people from copying certain things is: [http://wildsparx.com/eurionize/](http://wildsparx.com/eurionize/)
 the main weakness of eurionize is however that it only works on works of color.
