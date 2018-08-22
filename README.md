@@ -4,7 +4,7 @@ noprint
 Disable PDF printing with PDFbox https://pdfbox.apache.org/download.cgi
 You need to include the pdfbox jar for this to work. (I used: pdfbox-app-1.8.7.jar)
 
-Please not that you can easily use the PDFbox commandline arguments to achieve the same thing. There is excelent documentation on their website.
+Please note that you can easily use the PDFbox commandline arguments to achieve the same thing. There is excellent documentation on their website.
 
 This of course doesn't affect PDF readers that don't adhere to DRM rights.
 
